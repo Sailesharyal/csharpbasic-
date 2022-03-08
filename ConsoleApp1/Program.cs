@@ -17,3 +17,12 @@ Console.WriteLine("YOUR NAME IS " + name);
 //String interpolation 
 Console.WriteLine($"my name is {name}");
 // by using $ sign and curly bracket in variable you can do string intrepolation
+
+//variable 
+// there are many variables first of all lets start with string 
+
+//Using two string 
+
+string  friend = "manoj";
+string  secondfriend = "sanjog";
+Console.WriteLine($"hello {friend} and {secondfriend} how are you ");
