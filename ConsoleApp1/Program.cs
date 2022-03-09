@@ -21,8 +21,8 @@ Console.WriteLine($"my name is {name}");
 //variable 
 // there are many variables first of all lets start with string 
 
-//Using two string 
+//Using two st
 
-string  friend = "manoj";
-string  secondfriend = "sanjog";
-Console.WriteLine($"hello {friend} and {secondfriend} how are you ");
+Console.WriteLine("hello");
+
+Console.WriteLine()
