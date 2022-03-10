@@ -17,3 +17,4 @@ Console.WriteLine("YOUR NAME IS " + name);
 //String interpolation 
 Console.WriteLine($"my name is {name}");
 // by using $ sign and curly bracket in variable you can do string intrepolation
+
