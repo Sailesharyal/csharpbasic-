@@ -6,3 +6,6 @@ string cast = "aryal";
 Console.WriteLine($"my name is {name} and  lastname is {cast}");
 
 
+static void contains 
+
+
